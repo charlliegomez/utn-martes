@@ -6,3 +6,7 @@ pan
 torta 
 facturas 
 oregano
+frutas
+manzana
+peras 
+duraznos

@@ -1,0 +1,35 @@
+.destacados {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    margin: 100px;
+    padding: 10px;
+    box-shadow: -7px 42px 50px -7px rgba(0,0,0,0.65); /* eje de x eje de y desenfocado y color*/
+    /* movimiento de la sombra agregando mas y menos en los numeros*/
+    border-radius: 30px ;
+   
+    border-bottom: 10px solid #241f1f;
+
+}
+.el {
+    text-shadow: 9px 9px 10px rgba(0,0,0,0.6);
+}
+
+.yo {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(135, 182, 207, 1) 47%, rgba(17, 123, 9, 1) 83%, rgba(0, 212, 255, 1) 100%);
+    font-family: fantasy;
+}
+div {
+    background-color: aqua;
+    column-count: 2;
+    column-gap: 30px;
+    column-rule: 5px solid black;
+}
+div p { 
+    margin: 0;
+}
+h3 {
+    color: aquamarine;
+    font-family: 'Dancing Script', cursive;
+}
